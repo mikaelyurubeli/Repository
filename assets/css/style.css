@@ -1,0 +1,85 @@
+@charset "utf-8";
+/*CSS Document*/
+.repo-clear-css {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.repo-container {
+    min-width: 1024px;
+}
+
+.repo-clear-decoration {
+    text-decoration: none !important;
+}
+
+.repo-header {
+    min-height: 150px;
+    background-color: rgba(11, 66, 12, 1);
+}
+
+.repo-header-icon {
+    width: 80px;
+    height: 80px;
+    margin: 35px 20px 10px 20px;
+    float: left;
+}
+
+.repo-title{
+    color: white;
+    margin-top: 60px;
+    float: left;
+}
+
+.repo-radius-10 {
+    border-radius: 10px
+}
+
+.repo-mb-10 {
+    margin-bottom: 10px;
+}
+
+.repo-mt-10 {
+    margin-top: 5px;
+}
+
+.repo-header-padding {
+    padding: 20px 100px !important;
+}
+
+.repo-color-primary {
+    color: #fff !important;
+    border-color: rgba(11, 66, 12, 1) !important;
+    background-color: rgba(11, 66, 12, 1) !important;
+}
+
+.repo-sidebar-login {
+    font-weight: bold;
+    font-size: 16px;
+    color: #fff;
+}
+
+.repo-border-sidebar {
+    border: 1px solid rgba(0,0,0,.125) !important;
+}
+
+.repo-font-14 {
+    font-size: 14px !important;
+}
+
+.repo-color-white {
+    color: #fff !important;
+}
+
+#repo-button-signup {
+    background-color: #6c757d;
+}
+
+#repo-button-signup :hover {
+    background-color: #6c757d;
+}
+
+.repo-label-form {
+    font-size: 16px;
+    font-weight: bold;
+}
